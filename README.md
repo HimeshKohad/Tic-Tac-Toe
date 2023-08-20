@@ -1,4 +1,4 @@
-# Tic-Tac-Toe with UI and Sounds
+# Tic-Tac-Toe
 
 Tic-Tac-Toe with UI and Sounds is a modern take on the classic game of tic-tac-toe. 
 This project enhances the traditional gameplay with a visually appealing user interface and engaging sound effects.
